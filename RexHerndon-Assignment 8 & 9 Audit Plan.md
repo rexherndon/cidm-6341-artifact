@@ -203,7 +203,7 @@ Front and back doors are locked outside of business hours, which is a good minim
 
 ---
 
-# What your recommendations:
+# What are your recommendations:
 
 Regarding recommendations, there are actually few that I would recommend, and with what I found, here’s my list (based on the order they should be implemented in):
 
